@@ -1,0 +1,6 @@
+{
+  "name": "SPA24",
+  "description": "Verified directory for genuine spa and wellness businesses by city, area, service, with SEO management, photo galleries with alt tags, and keyword indexing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
